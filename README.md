@@ -2,6 +2,9 @@
 
 Este é um projeto de Weather app é uma aplicação web desenvolvida com React e TypeScript que fornece informações detalhadas sobre o clima das capitais dos estados brasileiros. O projeto consome a API do OpenWeatherMap para exibir dados como temperatura, sensação térmica, descrição do clima, vento, pressão e umidade. A aplicação permite selecionar múltiplas cidades e visualizar as informações meteorológicas em um layout moderno e responsivo.
 
+![image](https://github.com/user-attachments/assets/af66bca0-3df5-447e-9d24-1bcf958fe047)
+
+
 ## Funcionalidades
 
 - Seleção da capital dos estados do Brasil.
