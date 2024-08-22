@@ -79,3 +79,6 @@ weather-app/
 ## Uso
 
 Após a instalação e configuração, a aplicação permite que você selecione as capitais dos estados brasileiros usando um seletor de cidades. As informações meteorológicas para as cidades selecionadas serão exibidas em cartões com detalhes como temperatura, sensação térmica, descrição do clima, vento, pressão e umidade.
+
+![uso-app-clima](https://github.com/user-attachments/assets/5c5b25c5-e495-4aa7-a963-922022950183)
+
