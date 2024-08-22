@@ -68,7 +68,9 @@ const App: React.FC = () => {
   return (
     <div className="container" role="main" aria-labelledby="page-title">
       <header>
-        <h1 id="page-title">Informações Meteorológicas das Capitais</h1>
+        <h1 id="page-title">
+          Informações Meteorológicas das Capitais do Brasil
+        </h1>
       </header>
       <div className="select-container">
         <CitySelector
