@@ -76,6 +76,9 @@ weather-app/
  npm start
 ```
 
+4. **Ou acesse o projeto online:**
+   https://weather-app-navy-tau-27.vercel.app/
+
 ## Uso
 
 Após a instalação e configuração, a aplicação permite que você selecione as capitais dos estados brasileiros usando um seletor de cidades. As informações meteorológicas para as cidades selecionadas serão exibidas em cartões com detalhes como temperatura, sensação térmica, descrição do clima, vento, pressão e umidade.
