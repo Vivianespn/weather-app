@@ -1,0 +1,49 @@
+@import '../styles/variables';
+
+.card {
+  background: $card-background;
+  border-radius: $card-border-radius;
+  box-shadow: $card-shadow;
+  padding: 20px;
+  margin: 15px auto;
+  max-width: 400px;
+  text-align: center;
+  transition: transform 0.3s, box-shadow 0.3s;
+
+  &:hover {
+    transform: scale(1.05);
+    box-shadow: $card-shadow-hover;
+  }
+}
+
+.card h2 {
+  font-size: $card-title-font-size;
+  color: $secondary-color;
+  margin-bottom: 15px;
+}
+
+.card p {
+  font-size: $text-font-size;
+  color: $secondary-color;
+  margin: 10px 0;
+}
+
+.card .temperature {
+  font-size: $temperature-font-size;
+  font-weight: bold;
+  color: $accent-color;
+}
+
+.card .weather-description {
+  font-size: $sub-header-font-size;
+  color: $primary-color;
+}
+
+.card .details {
+  font-size: $text-font-size;
+  color: $secondary-color;
+}
+
+.card .weather-icon {
+  margin: 10px 0;
+}

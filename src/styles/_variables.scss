@@ -1,0 +1,24 @@
+/* Cores */
+$primary-color: #3498db; /* Azul claro */
+$secondary-color: #2c3e50; /* Azul escuro */
+$accent-color: #e74c3c; /* Vermelho */
+$background-color: #f0f4f8; /* Cinza claro */
+$card-background: #ffffff; /* Branco */
+$shadow-color: rgba(0, 0, 0, 0.1); /* Sombra suave */
+
+/* Fontes */
+$font-family: Arial, sans-serif;
+
+/* Tamanhos */
+$max-width: 1200px;
+$card-border-radius: 12px;
+$card-shadow: 0 4px 8px $shadow-color;
+$card-shadow-hover: 0 8px 16px rgba(0, 0, 0, 0.2);
+$header-font-size: 2.5rem;
+$sub-header-font-size: 1.2rem;
+$card-title-font-size: 1.8rem;
+$temperature-font-size: 2.5rem;
+$text-font-size: 1rem;
+
+/* variável de transição */
+$transition-speed: 0.5s;
